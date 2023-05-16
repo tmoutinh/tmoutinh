@@ -5,7 +5,7 @@
 
 ## Hi there 👋😃
 My name is Tiago, I am 24 and I am a neurobiology master 🧠 who believes we should know a little of everything. Recently I have also developed an interest in tech which motivated me to learn code at 42 Porto. I will share here some of my projects as well as future endeavours.
-I want to know more about **software development** and **AI**.
+I want to know more about **software development** and **AI** and progress from a scientist to a programmer.
 
 <sub>  Disclaimer: I had no background in coding, and I am trying to perfect my code writting as I'm evolving in the course.</sub>
 
@@ -13,11 +13,10 @@ I want to know more about **software development** and **AI**.
 I have been in contact with, used and practiced with:
 
 <p >
-  </a align="center" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,bash,linux,vscode,vim,wordpress" />
-  </a>
+  </a align="left" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,bash,linux,vscode,vim,wordpress" />
 </p>
 <div>
-  </a align = "right"><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeigar&layout=compact&theme=transparent">
+  </a align="left"><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeigar&layout=compact&theme=transparent">
 </div>
 
 <!--
