@@ -16,7 +16,7 @@ I have been in contact with, used and practiced with:
   </a align="left" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,bash,linux,vscode,vim,wordpress" />
 </p>
 <div>
-  </a align="left"><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeigar&layout=compact&theme=transparent">
+  </a align="left"><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmoutinh&layout=compact&theme=transparent">
 </div>
 
 <!--
