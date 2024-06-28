@@ -2,18 +2,26 @@
 <p align="center">
 <img src=https://gifdb.com/images/high/pixel-art-8bit-city-objgw22cel46yk7h.gif align="center" width="100%" height="250"/>
 </p>
-
-## Hi there 👋😃
-My name is Tiago, I am 24 and I am a neurobiology master 🧠 who believes we should know a little of everything. Recently I have also developed an interest in tech which motivated me to learn code at 42 Porto. I will share here some of my projects as well as future endeavours.
-I want to know more about **software development** and **AI** and progress from a scientist to a programmer.
-
+<h1>Hi there 👋😃</h1>
+<p>
+  My name is Tiago, I am a 26 neurobiology master 🧠 who believes we should know a little of everything. 
+</p>
+<p>
+  Recently I have also developed an interest in tech which motivated me to learn code at 42 Porto. I will share here some of my projects as well as future endeavours.
+  I want to know more about **software development** and **AI** and progress from a scientist to a programmer.
+</p>
 <sub>  Disclaimer: I had no background in coding, and I am trying to perfect my code writting as I'm evolving in the course.</sub>
 
 ## Skills acquired :notebook:
 I have been in contact with, used and practiced with:
 
 <p >
-  </a align="left" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,bash,linux,vscode,vim,wordpress" />
+  </a align="left" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,wordpress" />
+</p>
+  </a align="left" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,vim,bash,mysql" />
+</p>
+<p >
+  </a align="left" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,git" />
 </p>
 <div>
   </a align="left"><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmoutinh&layout=compact&theme=transparent">
