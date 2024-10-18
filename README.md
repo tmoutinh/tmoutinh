@@ -4,13 +4,12 @@
 </p>
 <h1>Hi there 👋😃</h1>
 <p>
-  My name is Tiago, I am a 26 neurobiology master 🧠 who believes we should know a little of everything. 
+  My name is Tiago, I am a neurobiology master 🧠 who believes we should know a little of everything. 
 </p>
 <p>
   Recently I have also developed an interest in tech which motivated me to learn code at 42 Porto. I will share here some of my projects as well as future endeavours.
   I want to know more about **software development** and **AI** and progress from a scientist to a programmer.
 </p>
-<sub>  Disclaimer: I had no background in coding, and I am trying to perfect my code writting as I'm evolving in the course.</sub>
 
 ## Skills acquired :notebook:
 I have been in contact with, used and practiced with:
